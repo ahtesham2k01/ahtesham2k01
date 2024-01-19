@@ -6,7 +6,4 @@ A full stack developer with expertise in backend development from [Pakistan](htt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahteshamshah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahteshamshah/)
 
-
-[Portfolio]: https://ahtesham.com
-
 ![Alt text](https://raw.githubusercontent.com/ahtesham2k01/ahtesham2k01/main/assets/ahtesham.png)
