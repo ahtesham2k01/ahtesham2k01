@@ -2,7 +2,7 @@
 
 ## I'm Ahtesham
 
-A full stack developer with expertise in backend development from [Pakistan][about-pakistan]. I love building applications & discussing new product ideas. Reach out to me on [linkedin](https://www.linkedin.com/in/ahteshamshah/). if you'd like to talk ✌️
+A full stack developer with expertise in backend development from [Pakistan](https://pakistanembassy.se/about-pakistan/). I love building applications & discussing new product ideas. Reach out to me on [linkedin](https://www.linkedin.com/in/ahteshamshah/). if you'd like to talk ✌️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahteshamshah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahteshamshah/)
 
